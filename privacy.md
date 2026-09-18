@@ -69,4 +69,4 @@ If this policy changes, the new version ships with the app and its effective dat
 
 ## Contact
 
-Crescere Studios · support@crescerestudios.com
+Crescere Studios · tempus.support@gmail.com

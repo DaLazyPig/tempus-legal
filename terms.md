@@ -68,4 +68,4 @@ These terms are governed by the laws of Australia, and disputes are subject to t
 
 ## Contact
 
-Crescere Studios · support@crescerestudios.com
+Crescere Studios · tempus.support@gmail.com

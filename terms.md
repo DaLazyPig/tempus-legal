@@ -64,7 +64,7 @@ If these terms change, the new version ships with the app and its effective date
 
 ## Law
 
-These terms are governed by the laws of Australia, and disputes are subject to the courts there, without limiting your rights under the consumer law of the place you live.
+These terms are governed by the laws of New South Wales, Australia, and disputes are subject to the courts of New South Wales, without limiting your rights under the consumer law of the place you live.
 
 ## Contact
 

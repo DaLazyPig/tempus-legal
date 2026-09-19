@@ -28,8 +28,6 @@ Tempus is made by Crescere Studios ("we", "us"). This policy says what Tempus co
 
 **Motion.** During a flight, Tempus reads the accelerometer to notice the phone being picked up. Readings are used on the spot and never stored or sent.
 
-**Camera.** The camera is used only if you turn on the lockbox, to place the box on a surface. Nothing is recorded and no image leaves your phone.
-
 **Face ID.** Confirming a spend uses Apple's Face ID or your passcode. Tempus only learns whether the check passed. It never has access to biometric data.
 
 **Notifications.** Notifications are created on your phone. We run no notification server.
